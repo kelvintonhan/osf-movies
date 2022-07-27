@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.5d3f0063.js",
-    "static/js/787.7c42db31.chunk.js": "/static/js/787.7c42db31.chunk.js",
-    "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.5d3f0063.js.map": "/static/js/main.5d3f0063.js.map",
-    "787.7c42db31.chunk.js.map": "/static/js/787.7c42db31.chunk.js.map"
+    "main.css": "/osf-movie/static/css/main.073c9b0a.css",
+    "main.js": "/osf-movie/static/js/main.7863a4a6.js",
+    "static/js/787.7c42db31.chunk.js": "/osf-movie/static/js/787.7c42db31.chunk.js",
+    "index.html": "/osf-movie/index.html",
+    "main.073c9b0a.css.map": "/osf-movie/static/css/main.073c9b0a.css.map",
+    "main.7863a4a6.js.map": "/osf-movie/static/js/main.7863a4a6.js.map",
+    "787.7c42db31.chunk.js.map": "/osf-movie/static/js/787.7c42db31.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.5d3f0063.js"
+    "static/js/main.7863a4a6.js"
   ]
 }
