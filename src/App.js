@@ -6,7 +6,7 @@ import Movie from "./pages/Movie"
 function App() {
   return (
     <div className="App">
-      <BrowserRouter>
+      <BrowserRouter >
         <Routes>
           <Route path="/" element={<Home/>} />
           <Route path="/movie/:id" element={<Movie/>} />
