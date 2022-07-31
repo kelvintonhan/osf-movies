@@ -40,11 +40,11 @@ export default makeStyles(() => ({
   },
 
   section: {
-    width: "90vw",
-    maxWidth: "1170px",
-    margin: "4rem auto",
+    gap: "3rem",
+    padding: "50px",
+    background: "#A5C9CA",
     display: "flex",
-    gap: "2rem",
+    alignItems: "center"
   }
 
 }))
