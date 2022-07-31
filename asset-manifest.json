@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/osf-movies/static/css/main.073c9b0a.css",
-    "main.js": "/osf-movies/static/js/main.f1e07489.js",
+    "main.js": "/osf-movies/static/js/main.32418b74.js",
     "static/js/787.7c42db31.chunk.js": "/osf-movies/static/js/787.7c42db31.chunk.js",
     "index.html": "/osf-movies/index.html",
     "main.073c9b0a.css.map": "/osf-movies/static/css/main.073c9b0a.css.map",
-    "main.f1e07489.js.map": "/osf-movies/static/js/main.f1e07489.js.map",
+    "main.32418b74.js.map": "/osf-movies/static/js/main.32418b74.js.map",
     "787.7c42db31.chunk.js.map": "/osf-movies/static/js/787.7c42db31.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.f1e07489.js"
+    "static/js/main.32418b74.js"
   ]
 }
